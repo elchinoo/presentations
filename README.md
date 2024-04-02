@@ -38,6 +38,4 @@ We value your feedback and suggestions for improving this repository. If you enc
 
 Happy exploring and learning!
 
-```
-PS.: Most of the content in this landing page was automatic generated, contributions are also very welcomed here if you have fixes and suggestions!
-```
+`PS.: Most of the content in this landing page was automatic generated, contributions are also very welcomed here if you have fixes and suggestions!`
