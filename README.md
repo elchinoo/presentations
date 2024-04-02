@@ -44,8 +44,8 @@ Happy exploring and learning!
 
 ### PostgreSQL
 
-- [10 Common Mistakes Developers Make when Writing SQL](10_Common_Mistakes_Developers_Make_when_Writing_SQL)
-- [Alta disponibilidade com PostgreSQL](Alta_disponibilidade_com_PostgreSQL)
+- [10 Common Mistakes Developers Make when Writing SQL](PostgreSQL/10_Common_Mistakes_Developers_Make_when_Writing_SQL)
+- [Alta disponibilidade com PostgreSQL](PostgreSQL/Alta_disponibilidade_com_PostgreSQL)
 - [An intro to Postgres and Vacuum](An intro to Postgres and Vacuum/)
 - [Everything You Need To Know About Vacuum](Everything You Need To Know About Vacuum/)
 - [I Dropped My Database Now What](I Dropped My Database Now What/)
