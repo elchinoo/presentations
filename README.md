@@ -15,7 +15,7 @@ This repository includes:
 - Slides: Visual aids used during presentations, providing an overview of key points, concepts, and findings.
 - Scripts: Companion materials that accompany presentations, including code snippets, demos, and step-by-step guides, enabling you to follow along and reproduce the showcased work.
 
-# How to Use
+## How to Use
 
 - Browse Presentations: Explore the repository to discover presentations that interest you. Each presentation is organized within its own directory for easy navigation.
 
@@ -23,7 +23,7 @@ This repository includes:
 
 - Contribute: Have a presentation to share? Contributions are welcome! Simply fork this repository, add your presentation materials, and submit a pull request. Your contribution will help expand our repository and benefit the community.
 
-# Contribution Guidelines
+## Contribution Guidelines
 
 To maintain the quality and integrity of this repository, please adhere to the following guidelines when contributing:
 
@@ -32,10 +32,31 @@ To maintain the quality and integrity of this repository, please adhere to the f
 - Follow ethical standards and respect intellectual property rights when sharing content.
 - Provide clear instructions or annotations within scripts to aid understanding and reproduction.
 
-# Feedback and Support
+## Feedback and Support
 
 We value your feedback and suggestions for improving this repository. If you encounter any issues, have ideas for additional features, or want to share your thoughts, please open an issue or reach out to us directly.
 
 Happy exploring and learning!
 
 `PS.: Most of the content in this landing page was automatic generated, contributions are also very welcomed here if you have fixes and suggestions!`
+
+## Presentations
+
+### PostgreSQL
+
+- [10 Common Mistakes Developers Make when Writing SQL](10 Common Mistakes Developers Make when Writing SQL/)
+- [Alta disponibilidade com PostgreSQL](Alta disponibilidade com PostgreSQL/)
+- [An intro to Postgres and Vacuum](An intro to Postgres and Vacuum/)
+- [Everything You Need To Know About Vacuum](Everything You Need To Know About Vacuum/)
+- [I Dropped My Database Now What](I Dropped My Database Now What/)
+- [PL_Java - Extend the power of your database](PL_Java - Extend the power of your database/)
+- [PostgreSQL Indexes demystified](PostgreSQL Indexes demystified/)
+- [PostgreSQL Performance Tuning Secrets](PostgreSQL Performance Tuning Secrets/)
+- [Postgres life - The modern challenges and how to survive them](Postgres life - The modern challenges and how to survive them/)
+- [Reducing Costs - Improving Performance With Data Modeling](Reducing Costs - Improving Performance With Data Modeling/)
+- [Smart Elephant: Postgres na era da IA](Smart Elephant: Postgres na era da IA/)
+- [Unleash the full potential of PostgreSQL and JSON](Unleash the full potential of PostgreSQL and JSON/)
+	
+### MySQL
+- [How to Get the Best Out of Your Indexes on Postgres and MySQL](How to Get the Best Out of Your Indexes on Postgres and MySQL/)
+- [PXC Workshop](PXC Workshop/)
