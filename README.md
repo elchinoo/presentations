@@ -49,12 +49,12 @@ Happy exploring and learning!
 - [An intro to Postgres and Vacuum](PostgreSQL/An_intro_to_Postgres_and_Vacuum)
 - [Everything You Need To Know About Vacuum](PostgreSQL/Everything_You_Need_To_Know_About_Vacuum)
 - [I Dropped My Database Now What](PostgreSQL/I_Dropped_My_Database_Now_What)
-- [PL_Java - Extend the power of your database](PostgreSQL/PL_Java_-_Extend_the_power_of_your_database)
+- [PL_Java - Extend the power of your database](PostgreSQL/PL_Java-Extend_the_power_of_your_database)
 - [PostgreSQL Indexes demystified](PostgreSQL/PostgreSQL_Indexes_demystified)
 - [PostgreSQL Performance Tuning Secrets](PostgreSQL/PostgreSQL_Performance_Tuning_Secrets)
-- [Postgres life - The modern challenges and how to survive them](PostgreSQL/Postgres_life_-_The_modern_challenges_and_how_to_survive_them)
-- [Reducing Costs - Improving Performance With Data Modeling](PostgreSQL/Reducing_Costs_-_Improving_Performance_With_Data_Modeling)
-- [Smart Elephant: Postgres na era da IA](PostgreSQL/Smart_Elephant:_Postgres_na_era_da_IA)
+- [Postgres life - The modern challenges and how to survive them](PostgreSQL/Postgres_life-The_modern_challenges_and_how_to_survive_them)
+- [Reducing Costs - Improving Performance With Data Modeling](PostgreSQL/Reducing_Costs-Improving_Performance_With_Data_Modeling)
+- [Smart Elephant: Postgres na era da IA](PostgreSQL/Smart_Elephant-Postgres_na_era_da_IA)
 - [Unleash the full potential of PostgreSQL and JSON](PostgreSQL/Unleash_the_full_potential_of_PostgreSQL_and_JSON)
 	
 ### MySQL
